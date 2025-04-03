@@ -17,7 +17,7 @@ logging.basicConfig(
 )
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '7646443370:AAGo_IObCTPq075QWSFffeeqFknOh2-NNos'  # Replace with your bot token
+TELEGRAM_BOT_TOKEN = '7562505741:AAFy8xNaLsGERUrzA2iYw1985jrwBgwr3H8'  # Replace with your bot token
 OWNER_USERNAME = "Gaarjalegi_sabki"  # Replace with your Telegram username (without @)
 DEFAULT_GROUP_ID = -1002554775324  # Default group ID
 max_duration = 240  # Default max attack duration
